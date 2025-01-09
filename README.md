@@ -1,23 +1,31 @@
-# aionotaio
-* Web3 enthusiast and developer :desktop_computer:
-* Skills: Python, PostgreSQL, RabbitMQ, web3.py, requests, asyncio, aiohttp, Docker, Git and more 🤖
-* Ready to work on something hard and interesting!
+<h1>aionotaio</h1>
+<h3>Things I code with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-46a2f1?style=flat&logo=Python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4682B4?style=flat&logo=PostgreSQL&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-00BFFF?style=flat&logo=SQLite&logoColor=white">
+  <img alt="aiogram" src="https://img.shields.io/badge/aiogram-1E90FF?style=flat&logo=Telegram&logoColor=white">
+  <img alt="web3py" src="https://img.shields.io/badge/web3.py-4682B4?style=flat&logo=Ethereum&logoColor=white">
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-7FFF00?style=flat&logo=Selenium&logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-008000?style=flat">
+  <img alt="bs4" src="https://img.shields.io/badge/beautifulsoup4-6B8E23?style=flat">
+</p>
+<h3>Github Stats</h3>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aionotaio&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aionotaio&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aionotaio&show_icons=true" />
+</picture>
+<h3>My contacts</h3>
+<a href="https://t.me/web3_py">
+  <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-![py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![psql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![web3py](https://img.shields.io/badge/web3.py-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white) 
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![win11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
-
-
-![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aionotaio&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
-
-![Codewars](https://github.r2v.ch/codewars?user=aionotaio&hide_clan=true)
