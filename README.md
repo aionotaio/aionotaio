@@ -11,6 +11,7 @@
   <img alt="Web3" src="https://img.shields.io/badge/Web3-4682B4?style=flat&logo=Ethereum&logoColor=white">
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-7FFF00?style=flat&logo=Selenium&logoColor=white">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-008000?style=flat">
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white">
 </p>
 <h3>Github Stats</h3>
 <picture>
