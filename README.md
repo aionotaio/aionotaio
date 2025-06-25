@@ -27,6 +27,18 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=aionotaio&show_icons=true" />
 </picture>
+<h3>Top Languages</h3>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aionotaio&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aionotaio&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aionotaio&layout=compact" />
+</picture>
 <h3>My contacts</h3>
 <a href="https://t.me/web3_py">
   <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
