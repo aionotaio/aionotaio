@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aionotaio&layout=compact" />
 </picture>
 <h3>My contacts</h3>
-<a href="https://t.me/web3_py">
+<a href="https://t.me/tls_requests">
   <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 
