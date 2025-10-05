@@ -1,7 +1,9 @@
 <h1>aionotaio</h1>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+</p>
+<p>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
