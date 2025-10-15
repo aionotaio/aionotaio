@@ -5,7 +5,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-009848?style=flat">
 </div>
-<h4>Frameworks</h4>
+<h4>Frameworks and Packages</h4>
 <div>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
   <img alt="aiogram" src="https://img.shields.io/badge/aiogram-1E90FF?style=flat&logo=Telegram&logoColor=white">
@@ -15,6 +15,7 @@
 </div>
 <h4>Tools</h4>
 <div>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
