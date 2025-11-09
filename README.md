@@ -1,4 +1,4 @@
-<h1>aionotaio</h1>
+<h1>aio</h1>
 <h3>Things I code with</h3>
 <h4>Languages</h4>
 <div>
@@ -7,6 +7,7 @@
 </div>
 <h4>Frameworks and Packages</h4>
 <div>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img alt="Celery" src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
   <img alt="Flower" src="https://img.shields.io/badge/Flower-3DCD58?style=for-the-badge">
