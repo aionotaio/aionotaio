@@ -3,6 +3,7 @@
 <h4>Languages</h4>
 <div>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-009848?style=for-the-badge">
 </div>
 <h4>Frameworks and Packages</h4>
